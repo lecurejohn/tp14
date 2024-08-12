@@ -3,7 +3,6 @@
 @font-face{
     font-family: 'BallparkWeiner';
     src: url('ballparkweiner.ttf');
-    src: url();
     font-weight: normal;
     font-style: normal;
 }
@@ -35,6 +34,19 @@ body{
     width: 910px;
     margin: auto;
 }
+
+/* ajout du media query */
+
+/* @media all and (max-width: 1024px){
+    #bloc_page {
+        width: auto;
+    }
+}
+ */
+
+
+
+
 section h1, footer h1, nav a{
     font-family: 'Dayrom',serif;
     font-weight: normal;
