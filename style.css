@@ -37,7 +37,7 @@ body{
 
 /* ajout du media query */
 
-@media all and (max-width: 1024px){
+@media all and (max-device-width: 480px){
     #bloc_page {
         width: auto;
     }
