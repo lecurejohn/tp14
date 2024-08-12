@@ -37,12 +37,12 @@ body{
 
 /* ajout du media query */
 
-/* @media all and (max-width: 1024px){
+@media all and (max-width: 1024px){
     #bloc_page {
         width: auto;
     }
 }
- */
+
 
 
 
